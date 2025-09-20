@@ -2585,6 +2585,12 @@
         "manufacturer": "宇通 YUTONG",
         "model": "ZK6128HG"
     },
+    "KKA-3759": {
+        "company": "桃園客運",
+        "year": "2017",
+        "manufacturer": "宇通 YUTONG",
+        "model": "ZK6128HG"
+    },
     "KKA-3760": {
         "company": "桃園客運",
         "year": "2017",
@@ -3138,6 +3144,12 @@
         "model": "JC290E6-5850"
     },
     "KKB-3106": {
+        "company": "桃園客運",
+        "year": "2024",
+        "manufacturer": "嘉馬 JIAMA",
+        "model": "JC290E6-5850"
+    },
+    "KKB-3111": {
         "company": "桃園客運",
         "year": "2024",
         "manufacturer": "嘉馬 JIAMA",
