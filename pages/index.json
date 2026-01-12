@@ -737,6 +737,12 @@
         "manufacturer": "大宇 DAEWOO",
         "model": "BS120CN"
     },
+    "420-U7": {
+        "company": "桃園客運",
+        "year": "2014",
+        "manufacturer": "大宇 DAEWOO",
+        "model": "BS120CN"
+    },
     "423-U5": {
         "company": "三重客運",
         "year": "2014",
@@ -2554,6 +2560,12 @@
         "year": "2022",
         "manufacturer": "成運 MASTER",
         "model": "MB120NS"
+    },
+    "KKA-3525": {
+        "company": "亞通客運",
+        "year": "2016",
+        "manufacturer": "三菱扶桑 FUSO",
+        "model": "ROSA BE641G"
     },
     "KKA-3679": {
         "company": "中壢客運",
