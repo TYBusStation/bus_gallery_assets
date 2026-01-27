@@ -587,6 +587,12 @@
         "manufacturer": "大宇 DAEWOO",
         "model": "BH115K"
     },
+    "306-U7": {
+        "company": "亞通客運",
+        "year": "2016",
+        "manufacturer": "宇通 YUTONG",
+        "model": "ZK6128HGA"
+    },
     "307-U5": {
         "company": "國光客運",
         "year": "2014",
@@ -1589,6 +1595,18 @@
         "manufacturer": "金旅 GOLDEN DRAGON",
         "model": "XML6125JEV"
     },
+    "EAA-533": {
+        "company": "桃園客運",
+        "year": "2025",
+        "manufacturer": "成運 MASTER",
+        "model": "MB120NSE"
+    },
+    "EAA-558": {
+        "company": "桃園客運",
+        "year": "2025",
+        "manufacturer": "成運 MASTER",
+        "model": "MB120NSE"
+    },
     "EAA-585": {
         "company": "EAA-585",
         "year": "2024",
@@ -1624,6 +1642,12 @@
         "year": "2023",
         "manufacturer": "華德 RAC",
         "model": "RACE150"
+    },
+    "EAL-0552": {
+        "company": "桃園客運",
+        "year": "2025",
+        "manufacturer": "成運 MASTER",
+        "model": "MB120NSE"
     },
     "EAL-0690": {
         "company": "中鹿客運",
