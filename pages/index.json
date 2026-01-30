@@ -137,6 +137,12 @@
         "manufacturer": "大宇 DAEWOO",
         "model": "BH115K"
     },
+    "098-FX": {
+        "company": "桃園客運",
+        "year": "2012",
+        "manufacturer": "豐田 TOYOTA",
+        "model": "COASTER XZB50L-ZEMSYR"
+    },
     "099-FX": {
         "company": "桃園客運",
         "year": "2012",
@@ -556,6 +562,12 @@
         "year": "2016",
         "manufacturer": "日野 HINO",
         "model": "HS8JRVL-UTF"
+    },
+    "273-U7": {
+        "company": "亞通客運",
+        "year": "2015",
+        "manufacturer": "宇通 YUTONG",
+        "model": "ZK6128HGA"
     },
     "276-U7": {
         "company": "亞通客運",
@@ -1655,7 +1667,43 @@
         "manufacturer": "成運 MASTER",
         "model": "MB120NSE"
     },
+    "EAA-535": {
+        "company": "桃園客運",
+        "year": "2025",
+        "manufacturer": "成運 MASTER",
+        "model": "MB120NSE"
+    },
+    "EAA-536": {
+        "company": "桃園客運",
+        "year": "2025",
+        "manufacturer": "成運 MASTER",
+        "model": "MB120NSE"
+    },
+    "EAA-550": {
+        "company": "桃園客運",
+        "year": "2025",
+        "manufacturer": "成運 MASTER",
+        "model": "MB120NSE"
+    },
+    "EAA-551": {
+        "company": "桃園客運",
+        "year": "2025",
+        "manufacturer": "成運 MASTER",
+        "model": "MB120NSE"
+    },
+    "EAA-556": {
+        "company": "桃園客運",
+        "year": "2025",
+        "manufacturer": "成運 MASTER",
+        "model": "MB120NSE"
+    },
     "EAA-558": {
+        "company": "桃園客運",
+        "year": "2025",
+        "manufacturer": "成運 MASTER",
+        "model": "MB120NSE"
+    },
+    "EAA-562": {
         "company": "桃園客運",
         "year": "2025",
         "manufacturer": "成運 MASTER",
@@ -1698,6 +1746,12 @@
         "model": "RACE150"
     },
     "EAL-0552": {
+        "company": "桃園客運",
+        "year": "2025",
+        "manufacturer": "成運 MASTER",
+        "model": "MB120NSE"
+    },
+    "EAL-0588": {
         "company": "桃園客運",
         "year": "2025",
         "manufacturer": "成運 MASTER",
@@ -2147,6 +2201,12 @@
         "manufacturer": "成運 MASTER",
         "model": "MB120NSE"
     },
+    "EAL-5639": {
+        "company": "桃園客運",
+        "year": "2025",
+        "manufacturer": "成運 MASTER",
+        "model": "MB120NSE"
+    },
     "FAA-081": {
         "company": "中興巴士",
         "year": "2013",
@@ -2470,6 +2530,12 @@
         "year": "2014",
         "manufacturer": "宇通 YUTONG",
         "model": "ZK6180HGC"
+    },
+    "FAD-517": {
+        "company": "桃園客運",
+        "year": "2012",
+        "manufacturer": "豐田 TOYOTA",
+        "model": "COASTER XZB50L-ZEMSYR"
     },
     "FAD-563": {
         "company": "桃園客運",
@@ -2957,6 +3023,12 @@
         "manufacturer": "日野 HINO",
         "model": "FC7JGTZ-AZF"
     },
+    "KKA-3511": {
+        "company": "中壢客運",
+        "year": "2022",
+        "manufacturer": "成運 MASTER",
+        "model": "MB120NS"
+    },
     "KKA-3515": {
         "company": "中壢客運",
         "year": "2022",
@@ -2980,6 +3052,18 @@
         "year": "2016",
         "manufacturer": "三菱扶桑 FUSO",
         "model": "ROSA BE641G"
+    },
+    "KKA-3666": {
+        "company": "亞通客運",
+        "year": "2012",
+        "manufacturer": "三菱扶桑 FUSO",
+        "model": "RM11GNL"
+    },
+    "KKA-3671": {
+        "company": "中壢客運",
+        "year": "2015",
+        "manufacturer": "三菱扶桑 FUSO",
+        "model": "RM11FN2XC"
     },
     "KKA-3679": {
         "company": "中壢客運",
@@ -3125,6 +3209,12 @@
         "manufacturer": "三菱扶桑 FUSO",
         "model": "RM11FN2XE"
     },
+    "KKA-3867": {
+        "company": "亞通客運",
+        "year": "2018",
+        "manufacturer": "大宇 DAEWOO",
+        "model": "BC211ＭＡ"
+    },
     "KKA-3882": {
         "company": "桃園客運",
         "year": "2018",
@@ -3142,6 +3232,24 @@
         "year": "2019",
         "manufacturer": "豐田 TOYOTA",
         "model": "COASTER XZB70L-ZEMSYR"
+    },
+    "KKA-3917": {
+        "company": "桃園客運",
+        "year": "2020",
+        "manufacturer": "日野 HINO",
+        "model": "HS8JRVL-UTF"
+    },
+    "KKA-3922": {
+        "company": "桃園客運",
+        "year": "2020",
+        "manufacturer": "日野 HINO",
+        "model": "RK8JRVA-KJF"
+    },
+    "KKA-3927": {
+        "company": "桃園客運",
+        "year": "2020",
+        "manufacturer": "日野 HINO",
+        "model": "RK8JRVA-KJF"
     },
     "KKA-3929": {
         "company": "桃園客運",
@@ -3190,6 +3298,12 @@
         "year": "2022",
         "manufacturer": "三菱扶桑 FUSO",
         "model": "RM11FN2XE"
+    },
+    "KKA-3988": {
+        "company": "桃園客運",
+        "year": "2014",
+        "manufacturer": "日野 HINO",
+        "model": "RK8JRVA-KJF"
     },
     "KKA-3990": {
         "company": "桃園客運",
