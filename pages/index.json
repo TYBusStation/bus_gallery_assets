@@ -719,6 +719,12 @@
         "manufacturer": "金龍 KINGLONG",
         "model": "KL6112U1"
     },
+    "347-U5": {
+        "company": "淡水客運",
+        "year": "2014",
+        "manufacturer": "金龍 KINGLONG",
+        "model": "KL6112U1"
+    },
     "352-U7": {
         "company": "亞通客運",
         "year": "2017",
@@ -1403,6 +1409,12 @@
         "manufacturer": "金龍 KINGLONG",
         "model": "KL6112U1"
     },
+    "788-FW": {
+        "company": "淡水客運",
+        "year": "2012",
+        "manufacturer": "金龍 KINGLONG",
+        "model": "KL6112U1"
+    },
     "792-U3": {
         "company": "中興巴士",
         "year": "2015",
@@ -1556,6 +1568,18 @@
     "947-FZ": {
         "company": "新北客運",
         "year": "2013",
+        "manufacturer": "金龍 KINGLONG",
+        "model": "KL6112U1"
+    },
+    "952-U5": {
+        "company": "指南客運",
+        "year": "2014",
+        "manufacturer": "金龍 KINGLONG",
+        "model": "KL6112U1"
+    },
+    "955-U5": {
+        "company": "指南客運",
+        "year": "2014",
         "manufacturer": "金龍 KINGLONG",
         "model": "KL6112U1"
     },
@@ -1931,6 +1955,12 @@
         "manufacturer": "鴻華 FOXTRON",
         "model": "MODEL-T"
     },
+    "EAL-3013": {
+        "company": "三重客運",
+        "year": "2023",
+        "manufacturer": "鴻華 FOXTRON",
+        "model": "MODEL-T"
+    },
     "EAL-3017": {
         "company": "三重客運",
         "year": "2023",
@@ -2123,6 +2153,12 @@
         "manufacturer": "金龍 KINGLONG",
         "model": "KL6112UE1"
     },
+    "EAL-3296": {
+        "company": "淡水客運",
+        "year": "2025",
+        "manufacturer": "金龍 KINGLONG",
+        "model": "KL6112UE1"
+    },
     "EAL-3301": {
         "company": "淡水客運",
         "year": "2025",
@@ -2134,6 +2170,30 @@
         "year": "2025",
         "manufacturer": "金龍 KINGLONG",
         "model": "KL6112UE1"
+    },
+    "EAL-3305": {
+        "company": "淡水客運",
+        "year": "2025",
+        "manufacturer": "金龍 KINGLONG",
+        "model": "KL6112UE1"
+    },
+    "EAL-3306": {
+        "company": "淡水客運",
+        "year": "2025",
+        "manufacturer": "金龍 KINGLONG",
+        "model": "KL6112UE1"
+    },
+    "EAL-3312": {
+        "company": "淡水客運",
+        "year": "2025",
+        "manufacturer": "金龍 KINGLONG",
+        "model": "KL6112UE1"
+    },
+    "EAL-3362": {
+        "company": "三重客運",
+        "year": "2025",
+        "manufacturer": "創奕 TRON-E",
+        "model": "TRN-M3EV-12LF-J"
     },
     "EAL-3368": {
         "company": "指南客運",
@@ -2279,13 +2339,31 @@
         "manufacturer": "大宇 DAEWOO",
         "model": "BH115K"
     },
+    "FAB-186": {
+        "company": "三重客運",
+        "year": "2015",
+        "manufacturer": "大宇 DAEWOO",
+        "model": "BS120CN"
+    },
     "FAB-193": {
         "company": "三重客運",
         "year": "2015",
         "manufacturer": "大宇 DAEWOO",
         "model": "BS120CN"
     },
+    "FAB-199": {
+        "company": "三重客運",
+        "year": "2015",
+        "manufacturer": "大宇 DAEWOO",
+        "model": "BS120CN"
+    },
     "FAB-202": {
+        "company": "三重客運",
+        "year": "2015",
+        "manufacturer": "大宇 DAEWOO",
+        "model": "BS120CN"
+    },
+    "FAB-203": {
         "company": "三重客運",
         "year": "2015",
         "manufacturer": "大宇 DAEWOO",
@@ -2308,6 +2386,12 @@
         "year": "2015",
         "manufacturer": "金龍 KINGLONG",
         "model": "KL6112U1"
+    },
+    "FAB-270": {
+        "company": "三重客運",
+        "year": "2015",
+        "manufacturer": "大宇 DAEWOO",
+        "model": "BS120CN"
     },
     "FAB-273": {
         "company": "三重客運",
@@ -3473,11 +3557,29 @@
         "manufacturer": "日野 HINO",
         "model": "RK8JMVA-KJF"
     },
+    "KKA-8105": {
+        "company": "淡水客運",
+        "year": "2018",
+        "manufacturer": "豐田 TOYOTA",
+        "model": "COASTER XZB70L-ZEMSYR"
+    },
     "KKA-8173": {
         "company": "國光客運",
         "year": "2016",
         "manufacturer": "大宇 DAEWOO",
         "model": "TX4312"
+    },
+    "KKA-8195": {
+        "company": "三重客運",
+        "year": "2019",
+        "manufacturer": "成運 MASTER",
+        "model": "MB120NS"
+    },
+    "KKA-8197": {
+        "company": "三重客運",
+        "year": "2019",
+        "manufacturer": "成運 MASTER",
+        "model": "MB120NS"
     },
     "KKA-8200": {
         "company": "三重客運",
@@ -3514,6 +3616,12 @@
         "year": "2019",
         "manufacturer": "成運 MASTER",
         "model": "MB120NS"
+    },
+    "KKA-8938": {
+        "company": "淡水客運",
+        "year": "2019",
+        "manufacturer": "金龍 KINGLONG",
+        "model": "KL6850A2"
     },
     "KKA-8981": {
         "company": "臺北客運",
