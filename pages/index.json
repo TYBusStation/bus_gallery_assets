@@ -989,6 +989,12 @@
         "manufacturer": "日野 HINO",
         "model": "RK8JRSA"
     },
+    "509-U6": {
+        "company": "國光客運",
+        "year": "2015",
+        "manufacturer": "大宇 DAEWOO",
+        "model": "BH115K"
+    },
     "511-FW": {
         "company": "基隆市公車處",
         "year": "2011",
@@ -1409,6 +1415,12 @@
         "manufacturer": "金龍 KINGLONG",
         "model": "KL6112U1"
     },
+    "767-U3": {
+        "company": "汎航通運",
+        "year": "2015",
+        "manufacturer": "斯堪尼亞 SCANIA",
+        "model": "K320IB4X2NB"
+    },
     "788-FW": {
         "company": "淡水客運",
         "year": "2012",
@@ -1728,6 +1740,12 @@
         "model": "MB120NSE"
     },
     "EAA-562": {
+        "company": "桃園客運",
+        "year": "2025",
+        "manufacturer": "成運 MASTER",
+        "model": "MB120NSE"
+    },
+    "EAA-566": {
         "company": "桃園客運",
         "year": "2025",
         "manufacturer": "成運 MASTER",
@@ -2333,6 +2351,12 @@
         "manufacturer": "大宇 DAEWOO",
         "model": "BH115K"
     },
+    "FAB-175": {
+        "company": "國光客運",
+        "year": "2015",
+        "manufacturer": "大宇 DAEWOO",
+        "model": "BH115K"
+    },
     "FAB-181": {
         "company": "國光客運",
         "year": "2015",
@@ -2915,6 +2939,12 @@
         "manufacturer": "三菱扶桑 FUSO",
         "model": "RM11FN2XC"
     },
+    "KKA-1521": {
+        "company": "指南客運",
+        "year": "2017",
+        "manufacturer": "三菱扶桑 FUSO",
+        "model": "RM11FN2XC"
+    },
     "KKA-1560": {
         "company": "淡水客運",
         "year": "2016",
@@ -2950,6 +2980,12 @@
         "year": "2017",
         "manufacturer": "日野 HINO",
         "model": "HS8JRVL-UTF"
+    },
+    "KKA-1853": {
+        "company": "國光客運",
+        "year": "2017",
+        "manufacturer": "大宇 DAEWOO",
+        "model": "BH115K"
     },
     "KKA-1855": {
         "company": "國光客運",
@@ -3191,6 +3227,12 @@
         "manufacturer": "宇通 YUTONG",
         "model": "ZK6128HG"
     },
+    "KKA-3750": {
+        "company": "桃園客運",
+        "year": "2017",
+        "manufacturer": "宇通 YUTONG",
+        "model": "ZK6128HG"
+    },
     "KKA-3759": {
         "company": "桃園客運",
         "year": "2017",
@@ -3292,6 +3334,12 @@
         "year": "2018",
         "manufacturer": "成運 MASTER",
         "model": "MB120NS"
+    },
+    "KKA-3839": {
+        "company": "桃園客運",
+        "year": "2018",
+        "manufacturer": "三菱扶桑 FUSO",
+        "model": "RM11FN2XE"
     },
     "KKA-3850": {
         "company": "桃園客運",
