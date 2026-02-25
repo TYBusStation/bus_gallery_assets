@@ -983,6 +983,12 @@
         "manufacturer": "豐田 TOYOTA",
         "model": "COASTER XZB50L-ZEMSYR"
     },
+    "487-FT": {
+        "company": "桃園客運",
+        "year": "2011",
+        "manufacturer": "豐田 TOYOTA",
+        "model": "COASTER XZB50L-ZEMSYR"
+    },
     "498-FT": {
         "company": "桃園客運",
         "year": "2012",
@@ -1145,6 +1151,12 @@
         "manufacturer": "三菱扶桑 FUSO",
         "model": "ROSA BE641G"
     },
+    "593-U6": {
+        "company": "指南客運",
+        "year": "2015",
+        "manufacturer": "金龍 KINGLONG",
+        "model": "KL6120UH3"
+    },
     "593-U7": {
         "company": "桃園客運",
         "year": "2015",
@@ -1222,6 +1234,12 @@
         "year": "2011",
         "manufacturer": "金龍 KINGLONG",
         "model": "KL6112U1"
+    },
+    "620-U7": {
+        "company": "中壢客運",
+        "year": "2015",
+        "manufacturer": "三菱扶桑 FUSO",
+        "model": "RM11FN2XC"
     },
     "621-U7": {
         "company": "中壢客運",
@@ -1618,6 +1636,12 @@
         "year": "2015",
         "manufacturer": "金龍 KINGLONG",
         "model": "KL6112U1"
+    },
+    "985-U3": {
+        "company": "汎航通運",
+        "year": "2015",
+        "manufacturer": "斯堪尼亞 SCANIA",
+        "model": "K320IB4X2NB"
     },
     "987-U5": {
         "company": "新北客運",
@@ -2933,6 +2957,12 @@
         "manufacturer": "三菱扶桑 FUSO",
         "model": "RM11FN2XC"
     },
+    "KKA-1518": {
+        "company": "指南客運",
+        "year": "2017",
+        "manufacturer": "三菱扶桑 FUSO",
+        "model": "RM11FN2XC"
+    },
     "KKA-1520": {
         "company": "指南客運",
         "year": "2017",
@@ -2981,6 +3011,12 @@
         "manufacturer": "日野 HINO",
         "model": "HS8JRVL-UTF"
     },
+    "KKA-1851": {
+        "company": "國光客運",
+        "year": "2017",
+        "manufacturer": "大宇 DAEWOO",
+        "model": "BH115K"
+    },
     "KKA-1853": {
         "company": "國光客運",
         "year": "2017",
@@ -3018,6 +3054,12 @@
         "model": "RK8JRVA-KJF"
     },
     "KKA-1895": {
+        "company": "國光客運",
+        "year": "2017",
+        "manufacturer": "大宇 DAEWOO",
+        "model": "BH115K"
+    },
+    "KKA-1896": {
         "company": "國光客運",
         "year": "2017",
         "manufacturer": "大宇 DAEWOO",
@@ -3191,7 +3233,19 @@
         "manufacturer": "富豪 VOLVO",
         "model": "B7RLE"
     },
+    "KKA-3703": {
+        "company": "桃園客運",
+        "year": "2017",
+        "manufacturer": "宇通 YUTONG",
+        "model": "ZK6128HG"
+    },
     "KKA-3708": {
+        "company": "桃園客運",
+        "year": "2017",
+        "manufacturer": "宇通 YUTONG",
+        "model": "ZK6128HG"
+    },
+    "KKA-3709": {
         "company": "桃園客運",
         "year": "2017",
         "manufacturer": "宇通 YUTONG",
@@ -3448,6 +3502,12 @@
         "year": "2014",
         "manufacturer": "日野 HINO",
         "model": "RK8JRVA-KJF"
+    },
+    "KKA-3997": {
+        "company": "桃園客運",
+        "year": "2014",
+        "manufacturer": "三菱扶桑 FUSO",
+        "model": "RM11FN1XA"
     },
     "KKA-3999": {
         "company": "亞通客運",
@@ -3978,6 +4038,12 @@
         "model": "COASTER GDB70L-ZETSYR"
     },
     "KKB-3039": {
+        "company": "桃園客運",
+        "year": "2024",
+        "manufacturer": "嘉馬 JIAMA",
+        "model": "JC290E6-5850"
+    },
+    "KKB-3051": {
         "company": "桃園客運",
         "year": "2024",
         "manufacturer": "嘉馬 JIAMA",
