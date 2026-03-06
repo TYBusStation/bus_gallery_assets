@@ -860,7 +860,13 @@
     "413-U5": {
         "company": "三重客運",
         "year": "2014",
-        "manufacturer": "成運 MASTER",
+        "manufacturer": "大宇 DAEWOO",
+        "model": "BS120CN"
+    },
+    "413-U7": {
+        "company": "桃園客運",
+        "year": "2014",
+        "manufacturer": "大宇 DAEWOO",
         "model": "BS120CN"
     },
     "419-U7": {
@@ -1085,6 +1091,18 @@
         "manufacturer": "三菱扶桑 FUSO",
         "model": "RM11FN2XC"
     },
+    "576-U7": {
+        "company": "亞通客運",
+        "year": "2015",
+        "manufacturer": "豐田 TOYOTA",
+        "model": "COASTER XZB50L-ZEMSYR"
+    },
+    "577-U7": {
+        "company": "亞通客運",
+        "year": "2015",
+        "manufacturer": "豐田 TOYOTA",
+        "model": "COASTER XZB50L-ZEMSYR"
+    },
     "578-FR": {
         "company": "光華巴士",
         "year": "2012",
@@ -1210,6 +1228,12 @@
         "year": "2015",
         "manufacturer": "金龍 KINGLONG",
         "model": "KL6120UH3"
+    },
+    "599-FY": {
+        "company": "桃園客運",
+        "year": "2013",
+        "manufacturer": "大宇 DAEWOO",
+        "model": "BS120CN"
     },
     "599-U7": {
         "company": "桃園客運",
@@ -3281,7 +3305,19 @@
         "manufacturer": "宇通 YUTONG",
         "model": "ZK6128HG"
     },
+    "KKA-3735": {
+        "company": "桃園客運",
+        "year": "2017",
+        "manufacturer": "宇通 YUTONG",
+        "model": "ZK6128HG"
+    },
     "KKA-3750": {
+        "company": "桃園客運",
+        "year": "2017",
+        "manufacturer": "宇通 YUTONG",
+        "model": "ZK6128HG"
+    },
+    "KKA-3753": {
         "company": "桃園客運",
         "year": "2017",
         "manufacturer": "宇通 YUTONG",
@@ -3300,6 +3336,12 @@
         "model": "ZK6128HG"
     },
     "KKA-3761": {
+        "company": "桃園客運",
+        "year": "2017",
+        "manufacturer": "宇通 YUTONG",
+        "model": "ZK6128HG"
+    },
+    "KKA-3762": {
         "company": "桃園客運",
         "year": "2017",
         "manufacturer": "宇通 YUTONG",
